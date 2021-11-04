@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Md. Rakibul Islam (@MRIS700)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Just email me on rakishimul@gmail.com 
+- 👀 I’m interested in Web Development (Backend)
+- 🌱 I’m currently learning Node.js (Express.js) and MongoDB (Mongoose).
+- 📫 How to reach me? Just email me on m.r.islam.swe@gmail.com 
 
 <!---
 MRIS700/MRIS700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
